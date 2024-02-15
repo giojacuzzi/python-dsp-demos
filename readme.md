@@ -1,4 +1,4 @@
-# NPS SIP Demos - Gio Jacuzzi
+# Python DSP demos
 
 This folder contains two python programs, `demo_dsp.py` and `demo_sine.py`, as well as several helper classes and utility functions. The `audio` directory contains input files for testing. See `requirements.txt` for package dependencies.
 
